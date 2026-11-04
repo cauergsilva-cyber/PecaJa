@@ -54,13 +54,6 @@ export default function SiteHeader({ page, onNavigate, theme, onToggleTheme }: S
           })}
         </nav>
 
-        <a
-          href="/painel"
-          className="hidden shrink-0 rounded-xl border border-steel-700 bg-steel-900 px-4 py-2 text-sm font-semibold text-steel-100 transition hover:border-alert-400 hover:text-alert-300 sm:inline-flex"
-        >
-          Painel de pedidos
-        </a>
-
 
         <button
           type="button"

@@ -1,6 +1,7 @@
 import ProjectOverviewPage from '@/site/pages/ProjectOverviewPage';
 import TechnicianPortalPage from '@/site/pages/TechnicianPortalPage';
 import SiteHeader from '@/site/components/layout/SiteHeader';
+import ChatWidget from '@/site/components/layout/ChatWidget';
 import { usePageRoute } from '@/site/hooks/usePageRoute';
 import { useTheme } from '@/site/hooks/useTheme';
 
@@ -15,6 +16,7 @@ export default function App() {
         {page === 'apresentacao' && <ProjectOverviewPage onNavigate={setPage} />}
         {page === 'portal' && <TechnicianPortalPage />}
       </main>
+      <ChatWidget />
     </div>
   );
 }
