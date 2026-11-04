@@ -1,14 +1,31 @@
-# Welcome to your Lovable project
+# Peça Pedido Hub
+
+https://github.com/erickricheldorf-maker/sitepainel.git
+
+
+
+
+
+
+
+https://github.com/erickricheldorf-maker/SitePe-aJa.git
+
+
+
+
+
+
+faça com que esses dois sites se conecttem, um é um site de um painel dos pedidos e outro é para pedir as peças, faça um banco de dados
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/dece7e75-8c50-47bc-bce1-8fd49d3920f9).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +37,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
